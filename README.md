@@ -97,7 +97,7 @@
         <textarea name="your email" cols="15" rows="1"></textarea>
         <br>
         <label>YOUR MESSAGE</label>
-        <textarea name="" rows="4"cols="5"></textarea>
+        <input type="text">
   <br>
         <input type="submit" name=""> 
 
